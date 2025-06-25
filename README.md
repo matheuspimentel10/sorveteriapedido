@@ -15,3 +15,8 @@ Este é um código para uma experiência de compra em uma sorveteria, oferecendo
     
   **Resumo Final da Compra**  
     Quando o cliente finaliza o pedido, o sistema exibe de forma clara o **valor total da compra**, encerrando com uma mensagem de agradecimento.
+
+![Captura de tela 2025-06-24 105438](https://github.com/user-attachments/assets/d2cdbb58-fdca-48c3-a162-1ce605546b54)
+![Captura de tela 2025-06-24 105505](https://github.com/user-attachments/assets/699fe162-db9e-44e4-985e-d58a7cfe4ed8)
+![Captura de tela 2025-06-24 105541](https://github.com/user-attachments/assets/eedef8b6-8cc9-41e8-b038-6a2965e55f90)
+![Captura de tela 2025-06-24 105604](https://github.com/user-attachments/assets/ae64c315-ec67-41ed-ab87-7ada8e369b21)
